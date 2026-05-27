@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/making-memories-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Making Memories With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/making-memories-with-you/) |
+| **Get License** | [Music Rights & Licensing for Making Memories With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/making-memories-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2221)
 
 ---
 
