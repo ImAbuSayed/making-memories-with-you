@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Making Memories With You
+
+This log tracks the cryptographic history and versioning for the song **Making Memories With You** (making-memories-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:47:00.969179 | `v1` | `ee8d6aedc0d2172cebd3150b7acdf1bedcf5ab22ac60934149ea773921c97c79` | `16016d1806d94ada01c77972598cd81c7638916f49a01e92a7ea29278208b2b9` | `2026-05-27_making-memories-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
